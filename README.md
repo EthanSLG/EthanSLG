@@ -1,18 +1,14 @@
-### Hi there 👋
+## Hello Word !
+`> sudo nano ethan.sh`
+## About Me
+Hi! I'm Ethan, I am 14 years old and I'm in high school.<br>
+My passion is IT and I would like to be a network administrator or Full Stack developer.
 
-<!--
-**EthanSLG/EthanSLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What do i do ?
+Actually, I learn the Python and I already know html, css, java and javascript.<br>
+In parallel, I’m managing a computer hosting project.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api?username=EthanSLG&hide=issues&show_icons=true&count_private=true&show_icons=false&theme=chartreuse-dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanSLG&layout=compact&count_private=true&show_icons=false&theme=chartreuse-dark"/>
+## Just many information about my activities on github
+*I’m a little lazy right now*<br>
+<img src="https://github-readme-stats.vercel.app/api?username=EthanSLG&hide=issues&show_icons=true&count_private=true&show_icons=false&theme=chartreuse-dark&locale=fr"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanSLG&layout=compact&count_private=true&show_icons=false&theme=chartreuse-dark&locale=fr"/>
